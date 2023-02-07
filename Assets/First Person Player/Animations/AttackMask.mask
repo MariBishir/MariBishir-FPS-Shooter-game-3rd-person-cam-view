@@ -1,0 +1,239 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AttackMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy
+    m_Weight: 0
+  - m_Path: Char1__Hierarchy/Root
+    m_Weight: 0
+  - m_Path: Char1__Hierarchy/Root/L.UpLeg
+    m_Weight: 0
+  - m_Path: Char1__Hierarchy/Root/L.UpLeg/L.UpLeg_Roll_1
+    m_Weight: 0
+  - m_Path: Char1__Hierarchy/Root/L.UpLeg/L.UpLeg_Roll_1/L.UpLeg_Roll_2
+    m_Weight: 0
+  - m_Path: Char1__Hierarchy/Root/L.UpLeg/L.UpLeg_Roll_1/L.UpLeg_Roll_2/L.Leg
+    m_Weight: 0
+  - m_Path: Char1__Hierarchy/Root/L.UpLeg/L.UpLeg_Roll_1/L.UpLeg_Roll_2/L.Leg/L.Leg_Roll_1
+    m_Weight: 0
+  - m_Path: Char1__Hierarchy/Root/L.UpLeg/L.UpLeg_Roll_1/L.UpLeg_Roll_2/L.Leg/L.Leg_Roll_1/L.Foot
+    m_Weight: 0
+  - m_Path: Char1__Hierarchy/Root/L.UpLeg/L.UpLeg_Roll_1/L.UpLeg_Roll_2/L.Leg/L.Leg_Roll_1/L.Foot/L.Foot_Toes
+    m_Weight: 0
+  - m_Path: Char1__Hierarchy/Root/L.UpLeg/L.UpLeg_Roll_1/L.UpLeg_Roll_2/L.Leg/L.Leg_Roll_1/L.Foot/L.Foot_Toes/L.Foot_Tip
+    m_Weight: 0
+  - m_Path: Char1__Hierarchy/Root/R.UpLeg
+    m_Weight: 0
+  - m_Path: Char1__Hierarchy/Root/R.UpLeg/R.UpLeg_Roll_1
+    m_Weight: 0
+  - m_Path: Char1__Hierarchy/Root/R.UpLeg/R.UpLeg_Roll_1/R.UpLeg_Roll_2
+    m_Weight: 0
+  - m_Path: Char1__Hierarchy/Root/R.UpLeg/R.UpLeg_Roll_1/R.UpLeg_Roll_2/R.Leg
+    m_Weight: 0
+  - m_Path: Char1__Hierarchy/Root/R.UpLeg/R.UpLeg_Roll_1/R.UpLeg_Roll_2/R.Leg/R.Leg_Roll_1
+    m_Weight: 0
+  - m_Path: Char1__Hierarchy/Root/R.UpLeg/R.UpLeg_Roll_1/R.UpLeg_Roll_2/R.Leg/R.Leg_Roll_1/R.Foot
+    m_Weight: 0
+  - m_Path: Char1__Hierarchy/Root/R.UpLeg/R.UpLeg_Roll_1/R.UpLeg_Roll_2/R.Leg/R.Leg_Roll_1/R.Foot/R.Foot_Toes
+    m_Weight: 0
+  - m_Path: Char1__Hierarchy/Root/R.UpLeg/R.UpLeg_Roll_1/R.UpLeg_Roll_2/R.Leg/R.Leg_Roll_1/R.Foot/R.Foot_Toes/R.Foot_Tip
+    m_Weight: 0
+  - m_Path: Char1__Hierarchy/Root/Spine_1
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2/L.Hand
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2/L.Hand/L.Hand_End
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2/L.Hand/L.Index_1
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2/L.Hand/L.Index_1/L.Index_2
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2/L.Hand/L.Index_1/L.Index_2/L.Index_3
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2/L.Hand/L.Index_1/L.Index_2/L.Index_3/L.Index_Tip
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2/L.Hand/L.Middle_1
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2/L.Hand/L.Middle_1/L.Middle_2
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2/L.Hand/L.Middle_1/L.Middle_2/L.Middle_3
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2/L.Hand/L.Middle_1/L.Middle_2/L.Middle_3/L.Middle_Tip
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2/L.Hand/L.Pinky_1
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2/L.Hand/L.Pinky_1/L.Pinky_2
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2/L.Hand/L.Pinky_1/L.Pinky_2/L.Pinky_3
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2/L.Hand/L.Pinky_1/L.Pinky_2/L.Pinky_3/L.Pinky_Tip
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2/L.Hand/L.Pinky_Metacarpal
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2/L.Hand/L.Pinky_Metacarpal/L.Pinky_Metacarpal_Tip
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2/L.Hand/L.Ring_1
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2/L.Hand/L.Ring_1/L.Ring_2
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2/L.Hand/L.Ring_1/L.Ring_2/L.Ring_3
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2/L.Hand/L.Ring_1/L.Ring_2/L.Ring_3/L.Ring_Tip
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2/L.Hand/L.Ring_Metacarpal
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2/L.Hand/L.Ring_Metacarpal/L.Ring_Metacarpal_Tip
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2/L.Hand/L.Thumb_1
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2/L.Hand/L.Thumb_1/L.Thumb_2
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2/L.Hand/L.Thumb_1/L.Thumb_2/L.Thumb_3
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/L.Shoulder/L.Arm/L.Arm_Roll_1/L.Arm_Roll_2/L.ForeArm/L.ForeArm_Roll_1/L.ForeArm_Roll_2/L.Hand/L.Thumb_1/L.Thumb_2/L.Thumb_3/L.Thumb_Tip
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/Neck
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/Neck/Head
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/Neck/Head/Head_Tip
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/Neck/Head/Jaw
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/Neck/Head/Jaw/Jaw_Tip
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/Neck/Head/L.Eye_LowEyelid
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/Neck/Head/L.Eye_LowEyelid/L.Eye_LowEyelid_Tip
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/Neck/Head/L.Eye_Socket
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/Neck/Head/L.Eye_UpEyelid
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/Neck/Head/L.Eye_UpEyelid/L.Eye_UpEyelid_Tip
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/Neck/Head/R.Eye_LowEyelid
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/Neck/Head/R.Eye_LowEyelid/R.Eye_LowEyelid_Tip
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/Neck/Head/R.Eye_Socket
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/Neck/Head/R.Eye_UpEyelid
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/Neck/Head/R.Eye_UpEyelid/R.Eye_UpEyelid_Tip
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand/eff_muzzle
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand/R.Hand_End
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand/R.Index_1
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand/R.Index_1/R.Index_2
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand/R.Index_1/R.Index_2/R.Index_3
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand/R.Index_1/R.Index_2/R.Index_3/R.Index_Tip
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand/R.Middle_1
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand/R.Middle_1/R.Middle_2
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand/R.Middle_1/R.Middle_2/R.Middle_3
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand/R.Middle_1/R.Middle_2/R.Middle_3/R.Middle_Tip
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand/R.Pinky_1
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand/R.Pinky_1/R.Pinky_2
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand/R.Pinky_1/R.Pinky_2/R.Pinky_3
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand/R.Pinky_1/R.Pinky_2/R.Pinky_3/R.Pinky_Tip
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand/R.Pinky_Metacarpal
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand/R.Pinky_Metacarpal/R.Pinky_Metacarpal_Tip
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand/R.Ring_1
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand/R.Ring_1/R.Ring_2
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand/R.Ring_1/R.Ring_2/R.Ring_3
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand/R.Ring_1/R.Ring_2/R.Ring_3/R.Ring_Tip
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand/R.Ring_Metacarpal
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand/R.Ring_Metacarpal/R.Ring_Metacarpal_Tip
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand/R.Thumb_1
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand/R.Thumb_1/R.Thumb_2
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand/R.Thumb_1/R.Thumb_2/R.Thumb_3
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/R.Shoulder/R.Arm/R.Arm_Roll_1/R.Arm_Roll_2/R.ForeArm/R.ForeArm_Roll_1/R.ForeArm_Roll_2/R.Hand/R.Thumb_1/R.Thumb_2/R.Thumb_3/R.Thumb_Tip
+    m_Weight: 1
+  - m_Path: Char1__Hierarchy/Root/Spine_1/Spine_2/Spine_3/Chest/Spine_Tip
+    m_Weight: 1
+  - m_Path: Char1__Model
+    m_Weight: 0
+  - m_Path: Char1__Model/modelBody
+    m_Weight: 0
+  - m_Path: Char1__Model/modelGun
+    m_Weight: 0
+  - m_Path: Char1__Model/modeLHair
+    m_Weight: 0
+  - m_Path: Char1__Model/modelHat
+    m_Weight: 0
+  - m_Path: Char1__Model/modelOuter
+    m_Weight: 0
+  - m_Path: Char1__Model/modelSkirt
+    m_Weight: 0
+  - m_Path: Char1__Model/modelSneaker
+    m_Weight: 0
